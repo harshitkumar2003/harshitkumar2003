@@ -9,7 +9,17 @@
 
 - 🔭 I’m currently working on the clothing website **BETWEEN**
 
+- 🌱 I'm currently learning advanced **JavaScript frameworks like React for frontend development, alongside modern web design principles and responsive design techniques. Also, diving into backend technologies like Node.js**
+
+- 👯 I’m looking to collaborate on innovative **Web Development Projects**
+
+- 🤝 I’m looking for help with optimizing website performance and **frontend development best practices. Specifically, assistance with refining code structure, improving page loading times, and integrating new technologies.**
+
+- 💬 Ask me about **frontend development**
+
 - 📫 How to reach me **harshitkumar2k03@gmail.com**
+
+- ⚡ Fun fact: **I Think We are more creative in the shower.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar2003&show_icons=true&locale=en" alt="harshitkumar2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar2003&" alt="harshitkumar2003" /></p>
+
