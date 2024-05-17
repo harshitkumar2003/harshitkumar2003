@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the clothing website **BETWEEN**
 
-- 🌱 I'm currently learning advanced **JavaScript frameworks like React for frontend development, alongside modern web design principles and responsive design techniques. Also, diving into backend technologies like Node.js**
+- 🌱 I'm currently learning advanced **JavaScript frameworks like React Node Js for frontend development, alongside modern web design principles and responsive design techniques. Also, diving into backend technologies like Node.js**
 
 - 👯 I’m looking to collaborate on innovative **Web Development Projects**
 
