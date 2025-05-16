@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hi there! I'm Harshit Kumar<br>I'm a passionate and curious tech enthusiast currently pursuing my MCA at Meerut Institute of Engineering and Technology (MIET). I love building creative web projects, exploring new technologies, and aiming to become a skilled Software Development Engineer (SDE). I believe in learning by doing and collaborating to grow faster.<br>🔭 I’m currently working on<br>Improving my Java and DSA skills, and exploring ideas for impactful full-stack projects.<br>👯 I’m looking to collaborate on<br>Innovative web development projects, open-source contributions, and student communities focused on tech learning and growth.<br>🤝 I’m looking for help with<br>Mastering Java, DSA in C++, and building impactful full-stack projects using Python, Django, MongoDB/MySQL.<br>🌱 I’m currently learning<br>- Java for backend development<br>- DSA (C/Java) for coding interviews<br>- Basics of the German language (for career in Germany)<br>- Real-world project building and system design<br>💬 Ask me about<br>Frontend development, student communities, virtual internships, productivity-focused student tools, and starting your own side projects.<br>⚡ Fun fact<br>I use AI tools to turn solo project ideas into reality — and I love organizing things as much as building them!
+## 👋 Hi there! I'm Harshit Kumar 
+<br>
+I'm a passionate and curious tech enthusiast currently pursuing my MCA at Meerut Institute of Engineering and Technology (MIET). I love building creative web projects, exploring new technologies, and aiming to become a skilled Software Development Engineer (SDE). I believe in learning by doing and collaborating to grow faster.
+<br><br>
+🔭 I’m currently working on<br>Improving my Java and DSA skills, and exploring ideas for impactful full-stack projects.
+<br><br>
+👯 I’m looking to collaborate on<br>Innovative web development projects, open-source contributions, and student communities focused on tech learning and growth.
+<br><br>
+🤝 I’m looking for help with<br>Mastering Java, DSA in C++, and building impactful full-stack projects using Python, Django, MongoDB/MySQL.
+<br><br>
+🌱 I’m currently learning<br>- Java for backend development<br>- DSA (C/Java) for coding interviews<br>- Basics of the German language (for career in Germany)<br>- Real-world project building and system design.
+<br><br>
+💬 Ask me about<br>Frontend development, student communities, virtual internships, productivity-focused student tools, and starting your own side projects.
+<br><br>
+⚡ Fun fact<br>I use AI tools to turn solo project ideas into reality — and I love organizing things as much as building them!
 
 
 ## 🌐 Socials:
